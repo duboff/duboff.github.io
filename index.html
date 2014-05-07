@@ -1,75 +1,156 @@
-<!doctype html>
-<html>
+<!DOCTYPE html>
+<html lang="en">
+  
   <head>
     <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>Mikhail Dubov by duboff</title>
-    <link rel="stylesheet" href="stylesheets/styles.css">
-    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-    <script src="javascripts/respond.js"></script>
-    <!--[if lt IE 9]>
-      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-    <!--[if lt IE 8]>
-    <link rel="stylesheet" href="stylesheets/ie.css">
-    <![endif]-->
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-
-  </head>
-  <body>
-      <div id="header">
-        <nav>
-          <li class="fork"><a href="https://github.com/duboff">View On GitHub</a></li>
-        </nav>
-      </div><!-- end header -->
-
-    <div class="wrapper">
-
-      <section>
-        <div id="title">
-          <h1>Mikhail Dubov</h1>
-          <p>Ruby Web Developer</p>
-          <hr>
-          <span class="credits left">Project maintained by <a href="https://github.com/duboff">duboff</a></span>
-          <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/michigangraham">mattgraham</a></span>
-        </div>
-
-        <h3>
-<a name="welcome-to-github-pages" class="anchor" href="#welcome-to-github-pages"><span class="octicon octicon-link"></span></a>Welcome to GitHub Pages.</h3>
-
-<p>This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here using GitHub Flavored Markdown, select a template crafted by a designer, and publish. After your page is generated, you can check out the new branch:</p>
-
-<pre><code>$ cd your_repo_root/repo_name
-$ git fetch origin
-$ git checkout gh-pages
-</code></pre>
-
-<p>If you're using the GitHub for Mac, simply sync your repository and you'll see the new branch.</p>
-
-<h3>
-<a name="designer-templates" class="anchor" href="#designer-templates"><span class="octicon octicon-link"></span></a>Designer Templates</h3>
-
-<p>We've crafted some handsome templates for you to use. Go ahead and continue to layouts to browse through them. You can easily go back to edit your page before publishing. After publishing your page, you can revisit the page generator and switch to another theme. Your Page content will be preserved if it remained markdown format.</p>
-
-<h3>
-<a name="rather-drive-stick" class="anchor" href="#rather-drive-stick"><span class="octicon octicon-link"></span></a>Rather Drive Stick?</h3>
-
-<p>If you prefer to not use the automatic generator, push a branch named <code>gh-pages</code> to your repository to create a page manually. In addition to supporting regular HTML content, GitHub Pages support Jekyll, a simple, blog aware static site generator written by our own Tom Preston-Werner. Jekyll makes it easy to create site-wide headers and footers without having to copy them across every page. It also offers intelligent blog support and other advanced templating features.</p>
-
-<h3>
-<a name="authors-and-contributors" class="anchor" href="#authors-and-contributors"><span class="octicon octicon-link"></span></a>Authors and Contributors</h3>
-
-<p>You can <a href="https://github.com/blog/821" class="user-mention">@mention</a> a GitHub username to generate a link to their profile. The resulting <code>&lt;a&gt;</code> element will link to the contributor's GitHub Profile. For example: In 2007, Chris Wanstrath (<a href="https://github.com/defunkt" class="user-mention">@defunkt</a>), PJ Hyett (<a href="https://github.com/pjhyett" class="user-mention">@pjhyett</a>), and Tom Preston-Werner (<a href="https://github.com/mojombo" class="user-mention">@mojombo</a>) founded GitHub.</p>
-
-<h3>
-<a name="support-or-contact" class="anchor" href="#support-or-contact"><span class="octicon octicon-link"></span></a>Support or Contact</h3>
-
-<p>Having trouble with Pages? Check out the documentation at <a href="http://help.github.com/pages">http://help.github.com/pages</a> or contact <a href="mailto:support@github.com">support@github.com</a> and we’ll help you sort it out.</p>
-      </section>
-
-    </div>
-    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+    <title>John Smith - Curriculum Vitae</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <!-- Le styles -->
+	<link href="stylesheets/bootstrap.min.css" rel="stylesheet">
+	<link href="stylesheets/style.css" rel="stylesheet">
     
-  </body>
+    <!-- Fallback for NoScript -->
+    <noscript>
+    <style type="text/css">
+     body {
+        display: block;
+     }
+    </style>
+    </noscript>
+	
+    <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js">
+      </script>
+    <![endif]-->
+    <!-- Le fav and touch icons -->
+    <link rel="shortcut icon" href="ico/favicon.ico">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="ico/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="ico/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="ico/apple-touch-icon-57-precomposed.png">
+  </head>
+
+  <body>
+		<section class="container">
+
+			<!-- Header -->
+			<header class="row-fluid">
+				<div class="title span7">
+					<img src="img/profile.jpg" title="That`s me!" alt="My Profile"/>
+					<h1>John Smith</h1>
+					<h2>front-end web developer</h2>
+				</div>
+				<div class="social offset1 span4">
+					<ul>
+						<li><i class="icon-home"></i> Stationsplein, 1012 AB</li>
+						<li>Amsterdam, The Netherlands</li>
+						<li><i class="icon-envelope-alt"></i> info@email.com</li>
+						<li><i class="icon-phone"></i> +4 8 15 16 23 42</li>
+						<li><a href="#" ><i class="icon-twitter" ></i></a>
+						<a href="#" ><i class="icon-facebook" ></i></a>
+						<a href="#" ><i class="icon-google-plus" ></i></a>
+						<a href="#" ><i class="icon-github" ></i></a></li>
+					</ul>
+				</div>	
+			</header>
+
+			<!-- Welcome Text -->
+			<article class="row-fluid">
+				<header class="span3">
+					<h3>Hello!</h3>
+				</header>
+				<div class="span9 ">
+					<p class="welcome">"Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away." <br>
+					<p class="auth"> <i>Antoine de Saint-Exupery</i>  </p>
+				</div>
+			</article>
+
+			<!-- Skills -->
+			<article class="row-fluid">
+				<header class="span3">
+					<h3>Skills</h3>
+				</header>
+				<div class="span9">
+					<div class="row-fluid skills">
+						<ul class="span6">
+							<li><h4>Programming</h4></li>
+							<li><strong>css</strong> - 3 years experience</li>
+							<li><strong>html</strong> - Lorem ipsum dolor sit amet</li>
+							<li><strong>php</strong> - Lorem ipsum dolor sit amet</li>
+							<li><strong>javascript</strong> - Lorem ipsum dolor sit amet</li>
+						</ul>
+						<ul class="span6">
+							<li><h4>Languages</h4></li>
+							<li><strong>English</strong> - Fluent </li>
+							<li><strong>Russian</strong> - Fluent in writing</li>
+							<li><strong>Spanish</strong> - Lorem ipsum dolor sit amet</li>
+							<li><strong>Esperanto</strong> - Lorem ipsum dolor sit amet</li>
+						</ul>
+					</div>
+				</div>
+			</article>
+
+			<!-- Education -->
+			<article class="row-fluid">
+				<header class="span3">
+					<h3>Education</h3>
+				</header>
+				<div class="span9">
+					<h4>High School</h4>
+					<h5>1943-2008</h5>
+						<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumyeirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diamvoluptua.</p>
+					<h4>University</h4>
+					<h5>2008-2008</h5>
+					<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumyeirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diamvoluptua.</p>
+					<h4>Second University</h4>
+					<h5>2008-2010</h5>
+					<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumyeirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diamvoluptua.</p>
+				</div>
+			</article>
+
+			<!-- Work -->
+			<article class="row-fluid">
+				<header class="span3">
+					<h3>Work Experience</h3>
+				</header>
+				<div class="span9">
+					<h4>My First Job </h4>
+					<h5>1960-2008</h5>
+					<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumyeirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diamvoluptua.</p>
+					<h4>Second Job</h4>
+					<h5>2008-2013</h5>
+					<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumyeirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diamvoluptua.</p>
+				</div>
+			</article>
+
+			<!-- Interests -->
+			<article class="row-fluid">
+				<header class="span3">
+					<h3>Interests</h3>
+				</header>
+				<div class="span9">
+					<h4>Traveling</h4>
+					<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumyeirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diamvoluptua</p>
+					<h4>Reading</h4>
+					<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumyeirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diamvoluptua</p>
+					<h4>Books</h4>
+					<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumyeirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diamvoluptua</p>
+				</div>
+			</article>
+
+			<!-- Footer -->
+			<footer>
+				&copy; 2013 John Smith 
+				<a href="#">Download as PDF</a> | <a href="#" onclick="javascript:window.print();">Print</a> | <a href="#top">To top <i class="icon-arrow-up"></i></a>
+			
+			</footer>
+	</section>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"></script>
+<script src="javascripts/main.js"></script>
+	</body>
+
 </html>
