@@ -7,8 +7,8 @@ I am now looking for a full time coding position at an awesome company in London
 
 ## Code samples
 
-| [Chartist](http://charti.st/)  | [Clonagram](http://fierce-beach-6871.herokuapp.com/)          | [Sudoku](https://github.com/mariogintili/boris_bikes) |
-| :-----------: |:-------------: |:-------------: |:-------------:|
+| [Chartist](http://charti.st/)  | [Clonagram](http://fierce-beach-6871.herokuapp.com/) | [Sudoku](https://github.com/mariogintili/boris_bikes) |
+| :-----------: |:-----------: |:-----------: |:-----------:|
 | A RoR app focused fast creation and sharing of charts. [Code](https://github.com/chartist/chartist)   | A RoR Instagram clone that employs Websockets, AJAX, Angular, S3, Stripe API etc. [Code](https://github.com/duboff/clonagram) | Fully test driven Sinatra implmentation of the sudoku game with a recursive algorithm to solve hard puzzles. [Code](https://github.com/duboff/Sudoku-web-version) |
 
 
