@@ -13,6 +13,11 @@ body {
   background-color: #1F1F1F;
   font-weight: 300;
 }
+
+.avatar {
+  width: 120px;
+  height: auto;
+}
 .container {
   max-width: 700px;
   background-color: #fff;
@@ -76,12 +81,12 @@ h1 {
   padding-top: 30px;
   font-weight: 700;
   font-family: Open Sans;
-  text-align: center;
+  text-align: left;
   letter-spacing: 1px;
 }
 h2 {
   font-size: 21px;
-  text-align: center;
+  text-align: left;
 }
 h3 {
   font-size: 20px ;
@@ -96,12 +101,12 @@ strong {
   font-weight: 400;
 }
 p {
-  text-indent: 22px;
+  /*text-indent: 22px;*/
   font-size: 16px;
   margin: 0px;
 }
 .welcome {
-  font-size: 24px;
+  font-size: 20px;
   text-indent: 0px;
   line-height: 30px;
 }
