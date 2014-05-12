@@ -90,14 +90,14 @@ The course included a significant quantitative element and some econometric prog
 
 ## Other
 
-### [Chartered Financial Analyst](https://www.cfainstitute.org) - Passed all 3 on levels of exams on first try
+## [Chartered Financial Analyst](https://www.cfainstitute.org) - Passed all 3 on levels of exams on first try
 
 Spoke at Europe's largest tech meetup. My talk was named 'When the startup is you' which tackled
 the ups & downs about starting a new venture.
 
-### [Ruconomics](http://www.ruconomics.com/) - Authored a popular 'economics for the masses' blog in Russian and was invited to write columns for several major media outlets.
+## [Ruconomics](http://www.ruconomics.com/) - Authored a popular 'economics for the masses' blog in Russian and was invited to write columns for several major media outlets.
 
 
-### [Fhellow](https://github.com/duboff/fhellow) - 2nd Place on Makers Academy Hackathon after only 10 weeks of training.
+## [Fhellow](https://github.com/duboff/fhellow) - 2nd Place on Makers Academy Hackathon after only 10 weeks of training.
 
-### [edX](https://s3.amazonaws.com/verify.edx.org/downloads/d20e82d7d84140c6a0a444a38447f48a/Certificate.pdf) - Introduction to Computer Science and Programming (using Python) at MIT earning 92% final grade.
+## [edX](https://s3.amazonaws.com/verify.edx.org/downloads/d20e82d7d84140c6a0a444a38447f48a/Certificate.pdf) - Introduction to Computer Science and Programming (using Python) at MIT earning 92% final grade.
