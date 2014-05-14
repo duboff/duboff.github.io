@@ -1,15 +1,13 @@
 # Mikhail Dubov
 
-After spending over 3 years in investment banking I have decided I was not enjoying my job as much I would have liked. At the same time I had a lot of business ideas which were not compatible with banking. I first joined a startup and found that I thrive a lot more in that environment. I fell in love with coding doing online courses and decided to take it further at [Makers Academy](http://www.makersacademy.com/). 
-
-I am now looking for a full time coding position at an awesome company in London.   
+After spending over 3 years in investment banking and several months at a start-up I have decided to make a switch to software development where as it turns out my passion truly lies. I have just graduated from Makers Academy, an intensive bootcamp-type program in London focused on Ruby but I am keen to learn a lot more. I am now looking for a full time coding position at an awesome company in London.   
 
 
 ## Code samples
 
-| [Chartist](http://charti.st/)  | [Clonagram](http://fierce-beach-6871.herokuapp.com/) | [Sudoku](https://github.com/mariogintili/boris_bikes) |
-| :-----------: |:-----------: |:-----------: |:-----------:|
-| A RoR app focused fast creation and sharing of charts. [Code](https://github.com/chartist/chartist)   | A RoR Instagram clone that employs Websockets, AJAX, Angular, S3, Stripe API etc. [Code](https://github.com/duboff/clonagram) | Fully test driven Sinatra implmentation of the sudoku game with a recursive algorithm to solve hard puzzles. [Code](https://github.com/duboff/Sudoku-web-version) |
+| [Chartist](https://github.com/duboff/chartist)  | [Clonagram](https://github.com/duboff/clonagram) | [Bookmarks](https://github.com/duboff/bookmark-manager) | [Sudoku](https://github.com/duboff/Sudoku-web-version) |
+| :-----------: | :-----------: | :-----------: | :-----------:|
+| Most complete project to date. A RoR app focused fast creation and sharing of charts using Google Charts API. [web](https://charti.st)   | A RoR Instagram clone that employs Websockets, AJAX, Angular, S3, Stripe API etc. [web](https://clonagram.herokuapp.com) | Sinatra app to save favourite links. Includes a custom-made user management system a-la Devise [web](https://bookmark-manager-duboff.herokuapp.com)| Fully test driven Sinatra implmentation of the sudoku game with a recursive algorithm to solve hard puzzles. [web](http://sudoku-game-duboff.herokuapp.com/) |
 
 
 ### Skills
@@ -20,7 +18,7 @@ I am now looking for a full time coding position at an awesome company in London
 * Git version control
 * Ruby and some Python
 * Web frameworks: Sinatra & Rails
-* PostgreSQL
+* PostgreSQL and some MySQL
 * JavaScript, jQuery, Coffeescript, Angular.js
 * HTML, CSS, SASS, HAML
 * Fast prototyping & deployment on Heroku
@@ -90,14 +88,19 @@ The course included a significant quantitative element and some econometric prog
 
 ## Other
 
-## [Chartered Financial Analyst](https://www.cfainstitute.org) - Passed all 3 on levels of exams on first try
+* [Chartered Financial Analyst](https://www.cfainstitute.org) - Passed all 3 on levels of exams on first try
 
-Spoke at Europe's largest tech meetup. My talk was named 'When the startup is you' which tackled
-the ups & downs about starting a new venture.
+* [Ruconomics](http://www.ruconomics.com/) - Authored a popular 'economics for the masses' blog in Russian and was invited to write columns for several major media outlets.
 
-## [Ruconomics](http://www.ruconomics.com/) - Authored a popular 'economics for the masses' blog in Russian and was invited to write columns for several major media outlets.
+* [Fhellow](https://github.com/duboff/fhellow) - 2nd Place on Makers Academy Hackathon after only 10 weeks of training.
 
+* [edX](https://s3.amazonaws.com/verify.edx.org/downloads/d20e82d7d84140c6a0a444a38447f48a/Certificate.pdf) - Introduction to Computer Science and Programming (using Python) at MIT earning 92% final grade.
 
-## [Fhellow](https://github.com/duboff/fhellow) - 2nd Place on Makers Academy Hackathon after only 10 weeks of training.
+## Keen to learn
+I am very aware I am only in the beginning of my coding adventure and there is a lot more to learn. Here is a wish-list of things I would like to understand better (or at all in some cases). This is an incomplete, unordered list and I do realise it may take quite a long time:
 
-## [edX](https://s3.amazonaws.com/verify.edx.org/downloads/d20e82d7d84140c6a0a444a38447f48a/Certificate.pdf) - Introduction to Computer Science and Programming (using Python) at MIT earning 92% final grade.
+* Node.js
+* Functional languages: Clojure or Erlang
+* Statically typed languages: Scala, C# or Go
+* Front-end frameworks: Angular.js or Ember.js
+* NoSQL: MongoDB, Redis
