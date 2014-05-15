@@ -7,7 +7,7 @@ After spending over 3 years in investment banking and several months at a start-
 
 | [Chartist](https://github.com/duboff/chartist)  | [Clonagram](https://github.com/duboff/clonagram) | [Bookmarks](https://github.com/duboff/bookmark-manager) | [Sudoku](https://github.com/duboff/Sudoku-web-version) |
 | :-----------: | :-----------: | :-----------: | :-----------:|
-| Most complete project to date. A RoR app focused fast creation and sharing of charts using Google Charts API. [web](https://charti.st)   | A RoR Instagram clone that employs Websockets, AJAX, Angular, S3, Stripe API etc. [web](https://clonagram.herokuapp.com) | Sinatra app to save favourite links. Includes a custom-made user management system a-la Devise [web](https://bookmark-manager-duboff.herokuapp.com)| Fully test driven Sinatra implmentation of the sudoku game with a recursive algorithm to solve hard puzzles. [web](http://sudoku-game-duboff.herokuapp.com/) |
+| Most complete project to date. A RoR app for fast creation and sharing of charts using Google Charts API. [web](https://charti.st)   | A RoR Instagram clone that employs Websockets, AJAX, Angular, S3, Stripe API etc. [web](https://clonagram.herokuapp.com) | Sinatra app to save favourite links. Includes a custom-made user management system a-la Devise [web](https://bookmark-manager-duboff.herokuapp.com)| Fully test driven Sinatra implmentation of the sudoku game with a recursive algorithm to solve hard puzzles. [web](http://sudoku-game-duboff.herokuapp.com/) |
 
 
 ### Skills
@@ -65,7 +65,7 @@ Citigroup is one of the largest investment banks in the world. Risk Management d
 
 **June 2010 - August 2010**
 
-Citigroup is a leading UK consultancy focusing on presenting economic arguments in major competition cases in the UK and Europe.
+RBB Economics is a leading UK consultancy focusing on presenting economic arguments in major competition cases in the UK and Europe.
 
 * Researched client companies' markets
 * Performed econometric analysis on large datasets using Stata
