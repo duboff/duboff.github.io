@@ -99,8 +99,9 @@ The course included a significant quantitative element and some econometric prog
 ## Keen to learn
 I am very aware I am only in the beginning of my coding adventure and there is a lot more to learn. Here is a wish-list of things I would like to understand better (or at all in some cases). This is an incomplete, unordered list and I do realise it may take quite a long time:
 
-* Dynamic frameworks: Node.js + Express, Python + Django
+* Dynamic frameworks: Node.js + Express, Flask, Django
 * Functional languages: Clojure or Erlang
 * Statically typed languages: Scala, C# or Go
 * Front-end frameworks: Angular.js or Ember.js
 * NoSQL: MongoDB, Redis
+* Programming for mobile devices: Objective-C or at least Phone Gap / Ruby Motion
