@@ -104,4 +104,4 @@ I am very aware I am only in the beginning of my coding adventure and there is a
 * Statically typed languages: Scala, C# or Go
 * Front-end frameworks: Angular.js or Ember.js
 * NoSQL: MongoDB, Redis
-* Programming for mobile devices: Objective-C or at least Phone Gap / Ruby Motion
+* Programming for mobile devices: Swift or at least Phone Gap / Ruby Motion
