@@ -88,7 +88,7 @@ The course included a significant quantitative element and some econometric prog
 
 ## Other
 
-* [Chartered Financial Analyst](https://www.cfainstitute.org) - Passed all 3 on levels of exams on first try
+* [Chartered Financial Analyst](https://www.cfainstitute.org) - Passed all 3 levels of exams on first try
 
 * [Ruconomics](http://www.ruconomics.com/) - Authored a popular 'economics for the masses' blog in Russian and was invited to write columns for several major media outlets.
 
