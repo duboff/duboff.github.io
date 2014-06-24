@@ -27,6 +27,16 @@ After spending over 3 years in investment banking and several months at a start-
 
 ## Experience
 
+### [VoiceCandy](http://www.voicecandy.com/) - Freelance Ruby Developer
+
+**June 2014 - Present**
+
+Developing a prototype app for a startup aimed at the recruitment market using the same idea as the VoiceCandy dating app i.e. voice clips.
+
+* Writing a ruby on rails app with Omniauth login, WebRTC recording
+* Deploying to Heroku
+* Employing TDD and Agile Development
+
 ### [Makers Academy](http://www.makersacademy.com/) - Student
 
 **February 2014 - May 2014**
