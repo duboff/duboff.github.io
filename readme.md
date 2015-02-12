@@ -1,6 +1,6 @@
 # Mikhail Dubov
 
-After spending over 3 years in investment banking and several months at a start-up I have decided to make a switch to software development where as it turns out my passion truly lies. I have just graduated from Makers Academy, an intensive bootcamp-type program in London focused on Ruby but I am keen to learn a lot more. I am now looking for a full time coding position at an awesome company in London.   
+Full Stack Software Engineer at Alphasights with a preference for Ruby and EmberJS and a strong background in finance.
 
 
 ## Sample Open Source Projects
