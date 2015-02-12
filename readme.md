@@ -29,6 +29,8 @@ After spending over 3 years in investment banking and several months at a start-
 
 ### [Alphasights](http://www.alphasights.com/) - Software Engineer
 
+**July 2014 - Present**
+
 Full-stack development with a focus on the Company’s main app, an internal project management system used by analysts to find advisors, create and manage projects and communicate to the client.
 * Working mostly with a large Ruby on Rails application with Javascript and Coffescript parts. Within the system I focused first on the search features (working with SOLR) and then on compliance features. This work allowed to learn the Rails API much deeper working in tandem with an amazing team of developers.
 * One of my projects was a greenfield app that is used by the team to send updates on what other members are working on (using Github and Flowdock APIs).
@@ -36,17 +38,11 @@ Full-stack development with a focus on the Company’s main app, an internal pro
 * I was also lucky enough to be able to invest time in acquiring new skills such as EmberJS, ReactJS and Go. While I have not yet written production code in these, I plan to work more with these new technologies to become a more well-rounded developer.
 
 
-**June 2014 - Present**
 
-Developing a prototype app for a startup aimed at the recruitment market using the same idea as the VoiceCandy dating app i.e. voice clips.
-
-* Writing a ruby on rails app with Omniauth login, WebRTC recording
-* Deploying to Heroku
-* Employing TDD and Agile Development
 
 ### [VoiceCandy](http://www.voicecandy.com/) - Freelance Ruby Developer
 
-**June 2014 - Present**
+**June 2014 - July 2014**
 
 Developing a prototype app for a startup aimed at the recruitment market using the same idea as the VoiceCandy dating app i.e. voice clips.
 
