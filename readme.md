@@ -3,11 +3,11 @@
 After spending over 3 years in investment banking and several months at a start-up I have decided to make a switch to software development where as it turns out my passion truly lies. I have just graduated from Makers Academy, an intensive bootcamp-type program in London focused on Ruby but I am keen to learn a lot more. I am now looking for a full time coding position at an awesome company in London.   
 
 
-## Code samples
+## Sample Open Source Projects
 
-| [Chartist](https://github.com/duboff/chartist)  | [Clonagram](https://github.com/duboff/clonagram) | [Bookmarks](https://github.com/duboff/bookmark-manager) | [Sudoku](https://github.com/duboff/Sudoku-web-version) |
-| :-----------: | :-----------: | :-----------: | :-----------:|
-| Most complete project to date. A RoR app for fast creation and sharing of charts using Google Charts API. [web](https://charti.st)   | A RoR Instagram clone that employs Websockets, AJAX, Angular, S3, Stripe API etc. [web](https://clonagram.herokuapp.com) | Sinatra app to save favourite links. Includes a custom-made user management system a-la Devise [web](https://bookmark-manager-duboff.herokuapp.com)| Fully test driven Sinatra implmentation of the sudoku game with a recursive algorithm to solve hard puzzles. [web](http://sudoku-game-duboff.herokuapp.com/) |
+| [Chartist](https://github.com/duboff/chartist)  | [Semantria](https://github.com/duboff/semantria) | [In Your Own Words](https://github.com/duboff/in-your-own-words) | 
+| :-----------: | :-----------: | :-----------: |
+| A RoR app for fast creation and sharing of charts using Google Charts API. [web](https://charti.st)   | A Ruby gem for interaction with Semantria Text Analytics API. | MVP for a recruitment app based around voice clips. The App interacts heavily with LinkedIn API. It uses WebRTC for in-browser cross-device voice recording, Rails for the server side and a lot of AngularJS for the client side. [web](https://in-your-own-words.herokuapp.com)| 
 
 
 ### Skills
