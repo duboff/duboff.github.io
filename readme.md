@@ -16,13 +16,13 @@ After spending over 3 years in investment banking and several months at a start-
 * Behaviour-driven development with Capybara
 * Object-Oriented programming
 * Git version control
-* Ruby and some Python
+* Ruby, some Python and Go
 * Web frameworks: Sinatra & Rails
 * PostgreSQL and some MySQL
-* JavaScript, jQuery, Coffeescript, Angular.js
-* HTML, CSS, SASS, HAML
+* JavaScript, jQuery, Coffeescript, EmberJS, some ReactJS and AngularJS
+* HTML, CSS, SASS, HAML, Handlebars
 * Fast prototyping & deployment on Heroku
-* Integration with APIs: Twilio, Mandrill, Stripe, AWS, Google Charts, Google Maps etc.
+* Integration with APIs: Twilio, Mandrill, Stripe, AWS, Google Charts, Google Maps, Github etc.
 * Websockets, Devise, FactoryGirl, Paperclip etc.
 
 ## Experience
